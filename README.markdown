@@ -14,8 +14,4 @@ A fully functional browser-based Chess Game built using HTML, CSS, and JavaScrip
 - CSS3
 - JavaScript
 
-## Installation
 
-```bash
-git clone https://github.com/Saloni3545/Chess-Game.git
-cd Chess-Game
